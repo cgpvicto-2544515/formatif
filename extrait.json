@@ -1,0 +1,30 @@
+{
+	"tableau": {
+		"prefix": "tab",
+		"body": [
+			"<thead>\r",
+			"                <tr>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                </tr>\r",
+			"            </thead>\r",
+			"            <tbody>\r",
+			"                <tr>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                </tr>\r",
+			"            </tbody>\r",
+			"            <tfoot>\r",
+			"                <tr>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                    <td></td>\r",
+			"                </tr>\r",
+			"            </tfoot>\r",
+			"        </table>"
+		],
+		"description": "tableau"
+	}
+}
