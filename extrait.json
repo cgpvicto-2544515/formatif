@@ -2,7 +2,8 @@
 	"tableau": {
 		"prefix": "tab",
 		"body": [
-			"<thead>\r",
+            "       <table>",
+			"           <thead>\r",
 			"                <tr>\r",
 			"                    <td></td>\r",
 			"                    <td></td>\r",
